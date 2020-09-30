@@ -1,0 +1,46 @@
+body{
+    margin-left: 7%;
+    background: linear-gradient(to right, #b7a8e5,  #f9e8e1 5%,  #f9e8e1 95%, #b7a8e5 );
+    color: black;
+}
+
+header,
+footer{
+    text-align: center;
+    font-size: medium;
+}
+
+header{
+    font-family: "Franklin Gothic";
+}
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #4b3145;
+}
+
+h1,
+h2{
+    font-family: "Sylfaen";
+}
+
+code {
+    color: #5d8da8;
+    margin-left: 100px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+}
+
+dd {
+    margin-bottom: 1em;
+}
